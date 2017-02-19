@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TQ2-L2-5V
+D Relay TQ2-L2-5V
+K Relay
+$ENDCMP
+#
+#End Doc Library
