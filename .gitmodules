@@ -1,6 +1,0 @@
-[submodule "Schematic/libis/kicad-ESP8266"]
-	path = Schematic/libis/kicad-ESP8266
-	url = git@github.com:jdunmire/kicad-ESP8266.git
-[submodule "Schematic/libis/Kicad-Libraries"]
-	path = Schematic/libis/Kicad-Libraries
-	url = git@github.com:belimawr/Kicad-Libraries.git
